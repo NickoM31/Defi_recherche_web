@@ -8,7 +8,7 @@
 
   Cet adage peut être également valable pour d'autres domaines d'activités marketing comme par exemple la mise en place de jeux concours.
 
-* [Lien] (http://www.definitions-marketing.com/definition/kiss/)
+* [definitions-marketing] (http://www.definitions-marketing.com/definition/kiss/)
 
 
 ## Un antivirus est il utile sous Windows? Sous Mac? Sous Linux?
