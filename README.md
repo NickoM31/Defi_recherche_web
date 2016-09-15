@@ -39,5 +39,11 @@ Ces différentes périodes de travail sont séparées par de courtes pauses.
 
 * [Amazon](https://aws.amazon.com/fr/fr ee/?sc_channel=PS&sc_campaign=acquisition_FR&sc_pub)
 
+## Question 54
+### Qui est Sundar Pichai?
 
+* Sundar Pichai est né en 1972 en Inde. Il arrive aus USA en 1993 où il étudie à l'université de Stanford. Il y obtient un master d'ingénirie et valide en 2002 son MBA à la Wharton School.
+ En 2004 il est embauché par Google. Il est chargé de gérer la barre d'outils du navigateur.
+ En 2008 il lance le navigateur Chrome.
+ En 2015 
 
